@@ -21,6 +21,6 @@ I am a dedicated backend developer with a rich experience in modern web technolo
 
 ## Activities
 
-![Hiep's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baohiep0108&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
-
+[![Hiep's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=baohiep0108&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+](https://github-readme-stats.vercel.app/api?username=baohiep0108&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
